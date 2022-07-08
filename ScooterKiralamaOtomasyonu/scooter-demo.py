@@ -2,7 +2,7 @@
     Heryerde kullanılan elektrikli scooterlar (binbin, martı, vs.) araçlar için otomasyon.
 
     Proje Dağılımı
-        1- Kullanıcı kayıt bölümü ve giriş bölümü
+        1- User LogIn and LogOut Section.
         2- Kullanıcı kart bilgileri giriş bölümü
         3- Sürüş zamanına göre ödenecek tutarı gösteren bölüm
         4- Veritabanı ile kullanıcının sürüş istatistiklerini tutulduğu bölüm. (geliştirme aşamasında)
